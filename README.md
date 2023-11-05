@@ -23,14 +23,15 @@
 
 ## AlgoQueen 2024
 
-| S.No | Name | Position | 
-|:----:|:-----:|:--------:|
-|  1   | Adithya N S |   |
-|  2   | Aishwarya S |   |
-|  3   | C S Amritha |   |
-|  4   | Dharshika S |   |
-|  5   | G Hamsini   |   |
-|  6   | Shree Harini T | |
-|  7   | Parvathi S |   |
-|  8   | Amita Narayanan Kutty | | 
+| S.No | Name | Practice 1 - Position | Practice 2 - Position |
+|:----:|:-----:|:--------:|:--------:|
+|  1   | Adithya N S | 99  |
+|  2   | Aishwarya S | 64  |
+|  3   | C S Amritha |  86 |
+|  4   | Dharshika S | NP  |
+|  5   | G Hamsini   | NP |
+|  6   | R Sruthi    | 49 |
+|  7   | Shree Harini T | 41 |
+|  8   | Parvathi S | NP  |
+|  9   | Amita Narayanan Kutty | NP | 
 
