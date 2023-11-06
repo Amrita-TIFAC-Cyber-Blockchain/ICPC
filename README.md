@@ -25,13 +25,13 @@
 
 | S.No | Name | Practice 1 - Position | Practice 2 - Position |
 |:----:|:-----:|:--------:|:--------:|
-|  1   | Adithya N S | 99  |
-|  2   | Aishwarya S | 64  |
-|  3   | C S Amritha |  86 |
-|  4   | Dharshika S | NP  |
-|  5   | G Hamsini   | NP |
-|  6   | R Sruthi    | 49 |
-|  7   | Shree Harini T | 41 |
-|  8   | Parvathi S | NP  |
-|  9   | Amita Narayanan Kutty | NP | 
+|  1   | Adithya N S | 99  | 146 |
+|  2   | Aishwarya S | 64  | 185 |
+|  3   | C S Amritha |  86 | NP |
+|  4   | Dharshika S | NP  | 310 |
+|  5   | G Hamsini   | NP | 340 |
+|  6   | R Sruthi    | 49 | NP |
+|  7   | Shree Harini T | 41 | NP |
+|  8   | Parvathi S | NP  | NP |
+|  9   | Amita Narayanan Kutty | NP | 197 |
 
