@@ -24,7 +24,7 @@
 ## AlgoQueen 2024
 
 | S.No | Name | Practice 1 - Position | Practice 2 - Position | Practice 3 - Position | 
-|:----:|:-----:|:--------:|:--------:|
+|:----:|:-----:|:--------:|:--------:|:----------:|
 |  1   | Adithya N S | 99  | 146 | 232 | 
 |  2   | Aishwarya S | 64  | 185 | 283 | 
 |  3   | C S Amritha |  86 | NP | NP | 
