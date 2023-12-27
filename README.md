@@ -7,12 +7,21 @@
     <img src="images/ICPC_Logo.png" alt ="ICPC" width="300" />
 </p>
 
+### Coach: Mr. Ramaguru Radhakrishnan, Assistant Professor (Sr. Gr.) - [ICPC Profile](https://icpc.global/ICPCID/JPS1ASBHGWC6)
+
 ## ICPC2023-2024
-#### The 2023 ICPC Asia Amritapuri First Round Online Programming Contest
+
+#### The 2023 ICPC Asia Amritapuri Doublesite Regional Contest - Amritapuri
+-  27 Jan 2024
+  
+
+#### [ICPC India Preliminary 2023](https://codedrills.io/contests/icpc-india-preliminary-2023)  ![](https://img.shields.io/badge/-Participated-brightgreen) ![](https://img.shields.io/badge/-Selected-gold)
+-  26 Nov 2023, Sun 11:00 - 13:00 (2 hours)
+-  TP: 3368 and TS: 9735
 
 | S. No. | Team Name | Team Members | Position  | Prelims |
 |:------:|:---------:|:------------:|:--------:|:----------:|
-| 1 | Hamswenee | Avi Nair <br/> Joshua Anto A <br/> Ramraj S | 404 | 1177 | 
+| 1 | Hamswenee | Avi Nair <br/> Joshua Anto A <br/> [Ramraj S](https://icpc.global/ICPCID/5OEWCXMRIZVJ) | 404 | 1177 | 
 | 2 | Ethereal Equations |Amal Ritessh A P <br/> Mukesh R <br/> Sree Sharvesh S S | 9 | 1405 |
 | 3 | Br0s_C0d3_;-) | Rushyendra Burla <br/> Mohana Vamsi Sowdepally <br/> Arul Sujith S | 577 | 1399 |
 
