@@ -19,11 +19,11 @@
 -  26 Nov 2023, Sun 11:00 - 13:00 (2 hours)
 -  TP: 3368 and TS: 9735
 
-| S. No. | Team Name | Team Members | Position  | Prelims |
+| S. No. | Team Name | Team Members | Practice  | Prelims |
 |:------:|:---------:|:------------:|:--------:|:----------:|
 | 1 | Hamswenee | [Avi Nair](https://icpc.global/ICPCID/VYWZFNBQ69SX) <br/> [Joshua Anto A]() <br/> [Ramraj S](https://icpc.global/ICPCID/5OEWCXMRIZVJ) | 404 | 1177 | 
-| 2 | Ethereal Equations | [Amal Ritessh A P](https://icpc.global/ICPCID/NVHNR6RDKTJC) <br/> [Mukesh R]() <br/> [Sree Sharvesh S S]() | 9 | 1405 |
-| 3 | Br0s_C0d3_;-) | [Rushyendra Burla]() <br/> [Mohana Vamsi Sowdepally]() <br/> [Arul Sujith S]() | 577 | 1399 |
+| 2 | Ethereal Equations | [Amal Ritessh A P](https://icpc.global/ICPCID/NVHNR6RDKTJC) <br/> [Mukesh R](https://icpc.global/ICPCID/20IT96VKKNPE) <br/> [Sree Sharvesh S S](https://icpc.global/ICPCID/GO9AI1TEQ2PA) | 9 | 1405 |
+| 3 | Br0s_C0d3_;-) | [Rushyendra Burla]() <br/> [Mohana Vamsi Sowdepally](https://icpc.global/ICPCID/X2GWUDTE3TVB) <br/> [Arul Sujith S]() | 577 | 1399 |
 
 
 <p align="center">
