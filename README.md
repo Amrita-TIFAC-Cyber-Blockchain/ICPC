@@ -23,7 +23,7 @@
 |:------:|:---------:|:------------:|:--------:|:----------:|
 | 1 | Hamswenee | [Avi Nair](https://icpc.global/ICPCID/VYWZFNBQ69SX) <br/> [Joshua Anto A]() <br/> [Ramraj S](https://icpc.global/ICPCID/5OEWCXMRIZVJ) | 404 | 1177 | 
 | 2 | Ethereal Equations | [Amal Ritessh A P](https://icpc.global/ICPCID/NVHNR6RDKTJC) <br/> [Mukesh R](https://icpc.global/ICPCID/20IT96VKKNPE) <br/> [Sree Sharvesh S S](https://icpc.global/ICPCID/GO9AI1TEQ2PA) | 9 | 1405 |
-| 3 | Br0s_C0d3_;-) | [Rushyendra Burla]() <br/> [Mohana Vamsi Sowdepally](https://icpc.global/ICPCID/X2GWUDTE3TVB) <br/> [Arul Sujith S]() | 577 | 1399 |
+| 3 | Br0s_C0d3_;-) | [Rushyendra Burla](https://icpc.global/ICPCID/ELA9MDO38EQP) <br/> [Mohana Vamsi Sowdepally](https://icpc.global/ICPCID/X2GWUDTE3TVB) <br/> [Arul Sujith S](https://icpc.global/ICPCID/IXRTFRBHTL32) | 577 | 1399 |
 
 
 <p align="center">
