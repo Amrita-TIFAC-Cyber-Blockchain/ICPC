@@ -11,8 +11,11 @@
 
 ## ICPC 2024-2025 ![](https://img.shields.io/badge/22UCYS-blue)
 
-#### [ICPC Amritapuri Preliminary 2024]()  ![](https://img.shields.io/badge/-Participated-brightgreen)
+#### [ICPC Amritapuri, Chennai, Kanpur Preliminary 2024]()  ![](https://img.shields.io/badge/-Participated-brightgreen) ![](https://img.shields.io/badge/-DOMJudge-purple)
 -  16 Nov 2023, Sat 18:00 - 21:00 (3 Hours)
+
+#### [ICPC Amritapuri, Chennai, Kanpur Preliminary 2024 (Recontest)]()  ![](https://img.shields.io/badge/-Participated-brightgreen) ![](https://img.shields.io/badge/-CodeChef-purple)
+-  23 Nov 2023, Sat 21:00 - 23:30 (2.5 Hours)
 
 | S. No. | Team Name | Team Members | Practice  | Prelims | Prelims (Recontest) | 
 |:------:|:---------:|:------------:|:--------:|:----------:|:-------:|
