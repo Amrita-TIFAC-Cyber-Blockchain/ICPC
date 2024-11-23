@@ -16,6 +16,6 @@
 
 | S. No. | Team Name | Team Members | Practice  | Prelims | Prelims (Recontest) | 
 |:------:|:---------:|:------------:|:--------:|:----------:|:-------:|
-| 1 | WildImpala | [Avi Nair](https://icpc.global/ICPCID/VYWZFNBQ69SX) <br/> [Joshua Anto A]() <br/> [Ramraj S](https://icpc.global/ICPCID/5OEWCXMRIZVJ) | 250 | 1476 | TBD |
-| 2 | Br0s_C0d3_;-) | [Mohana Vamsi Sowdepally](https://icpc.global/ICPCID/X2GWUDTE3TVB) <br/> [Mukesh R](https://icpc.global/ICPCID/20IT96VKKNPE) <br/> [Sree Sharvesh S S](https://icpc.global/ICPCID/GO9AI1TEQ2PA)  | NA | 1699 | TBD | 
+| 1 | WildImpala | [Avi Nair](https://icpc.global/ICPCID/VYWZFNBQ69SX) <br/> [Joshua Anto A]() <br/> [Ramraj S](https://icpc.global/ICPCID/5OEWCXMRIZVJ) | 250 | 1476 | 1267 |
+| 2 | Br0s_C0d3_;-) | [Mohana Vamsi Sowdepally](https://icpc.global/ICPCID/X2GWUDTE3TVB) <br/> [Mukesh R](https://icpc.global/ICPCID/20IT96VKKNPE) <br/> [Sree Sharvesh S S](https://icpc.global/ICPCID/GO9AI1TEQ2PA)  | NA | 1699 | 693 | 
 
