@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Progress</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #0074d9;
+            color: #fff;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #e1f5fe;
+        }
+        td {
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+ <header>
+		<p align="center">
+        <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/Amrita-TIFAC-Cyber-Blockchain/refs/heads/master/Assets/CYS_Logo.png" alt="Department Logo" width=600/>
+        <h1>ICPC Participants - Codeforces Progress</h1>
+		</p>
+    </header>
+<table>
+    <thead>
+        <tr>
+            <th>Handle</th>
+            <th>Rank</th>
+            <th>Rating</th>
+            <th>Max Rating</th>
+            <th>Contribution</th>
+            <th>Last Online</th>
+            <th>Registration Time</th>
+            <th>Active Days (Last Year)</th>
+            <th>Active Days (Last Month)</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for student in students_info %}
+        <tr>
+            <td>{{ student.handle }}</td>
+            <td>{{ student.rank }}</td>
+            <td>{{ student.rating }}</td>
+            <td>{{ student.max_rating }}</td>
+            <td>{{ student.contrib }}</td>
+            <td>{{ student.last_online }}</td>
+            <td>{{ student.registration_time }}</td>
+            <td>{{ student.active_days_last_year }}</td>
+            <td>{{ student.active_days_last_month }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>
