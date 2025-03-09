@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="300" />
-    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="120" />
+    <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/.github/blob/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
 </p>
 <h1>ICPC AlgoQueen</h1>
 <p align="center">
